@@ -1,3 +1,4 @@
 # LCMovableCollectionView
 
-一个可以移动cell的ColelctionView。
+一个可以拖动动cell的ColelctionView。
+可以设置能够拖动的section已以及不能够拖动的item。
